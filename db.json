@@ -1,0 +1,205 @@
+{
+  "recipes": [
+    {
+      "name": "Spaghetti Bolognese",
+      "image": "https://workweeklunch.com/wp-content/uploads/2022/10/spaghetti.bolognese-4.jpg",
+      "ingredients": [
+        "200g spaghetti",
+        "100g minced beef",
+        "1 can of tomatoes",
+        "1 onion",
+        "2 cloves of garlic"
+      ],
+      "instructions": [
+        "Cook the spaghetti.",
+        "Fry the minced beef with onion and garlic.",
+        "Add tomatoes.",
+        "Serve."
+      ],
+      "id": "1"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJwfn1qwK_04AZGzQVysy-e86aPikvXW4gfA&s",
+      "ingredients": [
+        "200g mixed vegetables",
+        "2 tablespoons soy sauce",
+        "1 clove garlic",
+        "1 tablespoon sesame oil"
+      ],
+      "instructions": [
+        "Heat oil, add garlic, then vegetables.",
+        "Stir-fry until cooked.",
+        "Add soy sauce and serve."
+      ],
+      "id": "3"
+    },
+    {
+      "name": "Pancakes",
+      "image": "https://www.onceuponachef.com/images/2009/08/pancakes-01.jpg",
+      "ingredients": [
+        "1 cup flour",
+        "1 tablespoon sugar",
+        "2 teaspoons baking powder",
+        "1/2 teaspoon salt",
+        "1 cup milk",
+        "1 egg",
+        "2 tablespoons melted butter"
+      ],
+      "instructions": [
+        "Mix all ingredients.",
+        "Heat a non-stick skillet.",
+        "Pour batter and cook until bubbles form.",
+        "Flip and cook until golden."
+      ],
+      "id": "4"
+    },
+    {
+      "name": "Beef Tacos",
+      "image": "https://momsdinner.net/wp-content/uploads/2021/03/Easy-Ground-Beef-Taco-Recipe-3.jpg",
+      "ingredients": [
+        "1 lb ground beef\n1 small onion",
+        "finely chopped\n2 cloves garlic",
+        "minced\n1 packet taco seasoning mix\n3/4 cup water\nTaco shells or tortillas\nToppings: shredded lettuce",
+        "diced tomatoes",
+        "shredded cheese",
+        "sour cream",
+        "and salsa"
+      ],
+      "instructions": "To prepare beef tacos, begin by cooking the ground beef in a skillet over medium heat until browned, breaking it apart with a spoon. Add the chopped onion and minced garlic, cooking until the onion is translucent. Stir in the taco seasoning and water, simmering for about 5 minutes until the mixture thickens. Fill the taco shells or tortillas with the beef mixture and top with your favorite toppings like shredded lettuce, diced tomatoes, shredded cheese, sour cream, and salsa. Serve immediately and enjoy your delicious beef tacos!",
+      "id": "5"
+    },
+    {
+      "name": "Caesar Salad",
+      "image": "https://bakesbychichi.com/wp-content/uploads/2021/04/DSC_2422-4-1.jpg",
+      "ingredients": [
+        "Romaine lettuce\nCroutons\nParmesan cheese",
+        "grated\nCaesar dressing\nBlack pepper\nOptional: grilled chicken or shrimp"
+      ],
+      "instructions": "To make a Caesar salad, start by washing and chopping the romaine lettuce into bite-sized pieces. In a large bowl, combine the chopped lettuce with croutons. Drizzle Caesar dressing over the salad and toss everything to coat evenly. Then, sprinkle grated Parmesan cheese on top and add black pepper to taste. For an extra protein boost, you can also include grilled chicken or shrimp. Serve immediately and enjoy your delicious Caesar salad!",
+      "id": "6"
+    },
+    {
+      "name": "Chocolate Chip Cookies",
+      "image": "https://mikebakesnyc.com/wp-content/uploads/2020/04/Photo-Apr-14-1-21-42-PM-scaled.jpg",
+      "ingredients": [
+        "1 cup butter",
+        "1 cup sugar",
+        "2 cups flour",
+        "1 cup chocolate chips",
+        "1 egg",
+        "1 teaspoon vanilla"
+      ],
+      "instructions": [
+        "Cream butter and sugar.",
+        "Add egg and vanilla.",
+        "Mix in flour and chocolate chips.",
+        "Bake at 350°F for 10-12 minutes."
+      ],
+      "id": "7"
+    },
+    {
+      "name": "Tomato Soup",
+      "image": "https://elavegan.com/wp-content/uploads/2020/09/tomato-pasta-soup-in-bowl-with-roasted-cherry-tomatoes.jpg",
+      "ingredients": [
+        "1 can of tomatoes",
+        "1 onion",
+        "2 cloves garlic",
+        "2 cups vegetable broth",
+        "Salt and pepper to taste"
+      ],
+      "instructions": [
+        "Sauté onion and garlic.",
+        "Add tomatoes and broth.",
+        "Simmer for 20 minutes.",
+        "Blend until smooth."
+      ],
+      "id": "8"
+    },
+    {
+      "name": "Margarita Pizza",
+      "image": "https://www.tasteandtellblog.com/wp-content/uploads/2023/07/Margherita-Pizza-6.jpg",
+      "ingredients": [
+        "Pizza dough",
+        "Tomato sauce",
+        "Mozzarella cheese",
+        "Fresh basil"
+      ],
+      "instructions": [
+        "Roll out dough.",
+        "Add sauce and cheese.",
+        "Bake at 475°F for 10-12 minutes.",
+        "Top with basil."
+      ],
+      "id": "9"
+    },
+    {
+      "name": "Scrambled Eggs with Veggies",
+      "image": "https://www.homemademastery.com/wp-content/uploads/2022/12/Mediterranean-Breakfast-Scramble-IMG_5393.jpg",
+      "ingredients": [
+        "2 eggs",
+        "Salt and pepper to taste",
+        "Mixed vegetables (e.g., bell peppers, onions, spinach)",
+        "1 tablespoon olive oil"
+      ],
+      "instructions": [
+        "Whisk eggs.",
+        "Sauté vegetables.",
+        "Pour eggs into the pan and scramble until cooked."
+      ],
+      "id": "10"
+    },
+    {
+      "id": "08d4",
+      "name": "Chapati",
+      "image": "https://judywanderi.net/wp-content/uploads/2021/03/20210224-IMG_7823-585x585.jpg",
+      "ingredients": [
+        "2 cups of all-purpose flour or whole wheat flour",
+        "1/2 teaspoon of salt (optional",
+        "for taste)",
+        "2 tablespoons of vegetable oil (optional",
+        "for softer chapatis)",
+        "Water (enough to make a soft dough",
+        "approximately 3/4 cup)",
+        "Extra flour for dusting while rolling the chapati"
+      ],
+      "instructions": "To make chapati, combine 2 cups of whole wheat flour with ½ teaspoon of salt. Gradually add ¾ to 1 cup of water and knead until smooth. Let the dough rest for 20-30 minutes. Divide into small balls, roll into flat rounds, and cook on a hot skillet until puffy and golden. Serve warm with your favorite dishes."
+    },
+    {
+      "id": "1686",
+      "name": "Fried Chicken",
+      "image": "https://static01.nyt.com/images/2024/01/10/multimedia/10Korean-Fried-Chicken-lfcg/10Korean-Fried-Chicken-lfcg-superJumbo.jpg",
+      "ingredients": [
+        "Cornstarch",
+        "Buttermilk",
+        "Eggs",
+        "Baking powder",
+        "Cayenne pepper",
+        "Hot sauce",
+        "Bread crumbs"
+      ],
+      "instructions": "To make fried chicken, season the chicken, dredge it in flour, and fry in hot oil until crispy and golden brown. Rest briefly, then serve."
+    },
+    {
+      "id": "d0d5",
+      "name": "Burgers",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLRzp7p6lygxN2S5WBqqdSRDAz9527-x6CWgXjVKJta9eEQW5adEM5G31huILRvsyisPA&usqp=CAU",
+      "ingredients": [
+        "1 lb ground beef, 4 burger buns, 4 slices of cheese (optional), Lettuce leaves,Tomato slices, Pickles Ketchup, Mustard, Salt and pepper to taste, Butter or oil for grilling"
+      ],
+      "instructions": "Form the ground beef into 4 equal patties, season with salt and pepper, and grill them on medium-high heat for about 4-5 minutes on each side, or until they reach your desired doneness. During the last minute of cooking, place a slice of cheese on top of each patty to melt. Toast the buns on the grill until golden. Assemble the burger by placing the patty on the bun, then layering with lettuce, tomato, pickles, ketchup, mustard, or any preferred toppings."
+    },
+    {
+      "id": "05bb",
+      "name": "Ugali Spinach Beef",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTs5FqtUGNkAlxYdHyAsCaMkfXKgU7uZRoUGQ&s",
+      "ingredients": [
+        "To prepare Ugali",
+        "bring 4 cups of water to a boil in a large pot. Gradually add 2 cups of maize flour while stirring continuously to avoid lumps. Cook on medium heat",
+        "stirring until it thickens and pulls away from the sides of the pot. Once cooked",
+        "reduce the heat to low and cover for a few minutes."
+      ],
+      "instructions": "For the Nyama (meat), heat 2 tablespoons of vegetable oil in a pan over medium heat. Add 500g of your choice of meat (beef or goat) and brown it on all sides. Add one chopped onion, two chopped tomatoes, and season with salt, pepper, and your preferred spices. Cook until the meat is tender, adding water as needed.\nFor the spinach, heat a small amount of oil in a separate pan. Add a bunch of washed and chopped spinach, sautéing for about 5 minutes until wilted. Season with salt and pepper to taste.\nServe Ugali with the Nyama and spinach on the side, allowing the flavors to blend together for a delicious, hearty meal!"
+    }
+  ]
+}

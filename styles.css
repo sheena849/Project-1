@@ -1,0 +1,136 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: darkgray;
+  margin: 0;
+  padding: 20px;
+  background-image: url(food2.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.container {
+  max-width: 1000px; /* Increased container size */
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f0e7d5;
+  border-radius: 10px;
+  box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+#search-container {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#search-input {
+  padding: 10px;
+  width: 300px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+}
+
+button {
+  padding: 10px 15px;
+  margin-left: 10px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#search-button {
+  background-color: skyblue;
+  color: white;
+}
+
+#clear-button {
+  background-color: #dc3545;
+  color: white;
+}
+
+
+.recipe {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.recipe img {
+  width: 200px; /* Slightly larger image for public recipes */
+  height: auto;
+  margin-right: 20px;
+}
+
+.recipe-info {
+  max-width: 700px;
+}
+
+.recipe-info h2 {
+  margin-top: 0;
+}
+
+/* Container for your own recipes */
+.your-recipe {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 20px;
+}
+
+.your-recipe img {
+  width: 250px; /* Larger image for your recipes */
+  height: auto;
+  margin-right: 20px;
+}
+
+.your-recipe-info {
+  max-width: 700px;
+}
+
+.your-recipe-info h2 {
+  margin-top: 0;
+}
+
+/* Style the ingredients and instructions to appear next to the image */
+ul {
+  list-style-type: disc;
+  padding-left: 20px;
+  display: inline-block;
+  text-align: left;
+}
+
+.hidden {
+  display: none;
+}
+
+.bold {
+  font-weight: bold;
+  display: block;
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
+
+#add-button {
+  background-color: darkgray;
+}
+
+#update-button {
+  background-color: burlywood;
+}
+.delete-button {
+  margin-top: 10px;
+  padding: 5px 10px;
+  background-color: red;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  background-color: darkred;
+}
